@@ -1,8 +1,9 @@
 # MyStudySpace
 ### Version
 - Node(Express) - 16.13.2
-- MariaDB - 10.4.14
+- PostgreSQL - 14.5
 - TypeScript - 4.7.2
+- Nest
 
 ### Goal
 - Swagger 적용
